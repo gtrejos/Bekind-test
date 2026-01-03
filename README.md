@@ -72,8 +72,8 @@ Es una aplicación web en React que consume APIs REST, maneja autenticacion, est
 ### Paso 1: Clonar el proyecto
 
 ```bash
-git clone <url-del-repositorio>
-cd bekind-network-app
+git clone https://github.com/gtrejos/Bekind-test.git
+cd Bekind-test
 ```
 
 ### Paso 2: Instalar dependencias
